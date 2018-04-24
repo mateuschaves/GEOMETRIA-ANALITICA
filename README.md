@@ -10,4 +10,6 @@ Resolução dos exercícios da disciplina Geometria analítica do curso de siste
 * **Autor: Paulo Winterle**
 
 ## Contribuidores
-* **Mateus Henrique** - [Github](https://github.com/mateuschaves)
+* **Mateus Henrique**
+* **Felipe**
+* **Daniel**
